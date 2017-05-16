@@ -6,7 +6,7 @@ Several parts of this jupyter demo borrow from the excellent lectures on scienti
 ## Conda (Linux & MacOS & Windows)
 The best way set-up an scientific Python environment is to use the cross-platform package manager `conda` from Continuum Analytics. First download and install miniconda http://conda.pydata.org/miniconda.html or Anaconda (see below). Next, to install the required libraries for these notebooks, simply run:
 
-    $ conda install numpy scipy sympy matplotlib jupyter cython ase pymatgen MDAnalysis
+    $ conda install numpy scipy sympy matplotlib jupyter pandas cython ase pymatgen MDAnalysis
 
 This should be sufficient to get a working environment on any platform supported by `conda`.
 
@@ -14,7 +14,7 @@ This should be sufficient to get a working environment on any platform supported
 In Ubuntu Linux, to installing python and all the requirements run (we'll be using python3 in this tutorial, but a similar procedure can be followed for python2):
 
     $ sudo apt-get install python3-pip
-    $ sudo -H pip3 install --upgrade scipy numpy sympy matplotlib cython jupyter ase pymatgen MDAnalysis
+    $ sudo -H pip3 install --upgrade scipy numpy sympy matplotlib pandas cython jupyter ase pymatgen MDAnalysis
 
 # Following the tutorial
 ## Git
