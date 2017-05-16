@@ -20,4 +20,6 @@ In Ubuntu Linux, to installing python and all the requirements run (we'll be usi
 ## Git
 As a nice follow-up with previous tutorials from MdlS, you can follow this tutorial using Git. To do this simply run:
     
-    $ git clone 
+    $ git clone https://github.com/burbanom/phenix-visits-jupyter.git
+    
+or download the repository directly. 
