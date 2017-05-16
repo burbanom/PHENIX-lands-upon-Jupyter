@@ -1,4 +1,4 @@
-# PHENIX-visits-jupyter
+# jupyter-comes-to-PHENIX
 A sample jupyter notebook along with ancillary files.  
 Several parts of this jupyter demo borrow from the excellent lectures on scientific python found at https://github.com/jrjohansson/scientific-python-lectures. The instructions below can be found in more detail in Lecture 0.  
 
@@ -20,6 +20,6 @@ In Ubuntu Linux, to installing python and all the requirements run (we'll be usi
 ## Git
 As a nice follow-up with previous tutorials from MdlS, you can follow this tutorial using Git. To do this simply run:
     
-    $ git clone https://github.com/burbanom/phenix-visits-jupyter.git
+    $ git clone https://github.com/burbanom/jupyter-comes-to-phenix.git
     
 or download the repository directly. 
