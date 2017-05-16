@@ -1,4 +1,4 @@
-# phenix-visits-jupyter
+# PHENIX-visits-jupyter
 A sample jupyter notebook along with ancillary files.  
 Several parts of this jupyter demo borrow from the excellent lectures on scientific python found at https://github.com/jrjohansson/scientific-python-lectures. The instructions below can be found in more detail in Lecture 0.  
 
@@ -15,3 +15,9 @@ In Ubuntu Linux, to installing python and all the requirements run (we'll be usi
 
     $ sudo apt-get install python3-pip
     $ sudo -H pip3 install --upgrade scipy numpy matplotlib cython jupyter ase pymatgen MDAnalysis
+
+# Following the tutorial
+## Git
+As a nice follow-up with previous tutorials from MdlS, you can follow this tutorial using Git. To do this simply run:
+    
+    $ git clone 
