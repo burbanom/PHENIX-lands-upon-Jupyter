@@ -14,7 +14,7 @@ This should be sufficient to get a working environment on any platform supported
 In Ubuntu Linux, to installing python and all the requirements run (we'll be using python3 in this tutorial, but a similar procedure can be followed for python2):
 
     $ sudo apt-get install python3-pip
-    $ sudo -H pip3 install --upgrade scipy numpy matplotlib cython jupyter ase pymatgen MDAnalysis
+    $ sudo -H pip3 install --upgrade scipy numpy sympy matplotlib cython jupyter ase pymatgen MDAnalysis
 
 # Following the tutorial
 ## Git
