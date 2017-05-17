@@ -1,4 +1,4 @@
-# jupyter-comes-to-PHENIX
+# PHENIX-lands-upon-Jupyter
 A sample jupyter notebook along with ancillary files.  
 Several parts of this jupyter demo borrow from the excellent lectures on scientific python found at https://github.com/jrjohansson/scientific-python-lectures. The instructions below can be found in more detail in Lecture 0 of that lecture series.  
 
