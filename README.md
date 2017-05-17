@@ -20,7 +20,7 @@ Although we will be using Python 3 in this tutorial, a similar procedure can be 
 
 # Following the tutorial
 ## Git
-As a nice continuation with previous tutorials from MdlS, you can follow this tutorial using Git. To do this simply run:
+As a nice continuation with previous tutorials from the MdlS, you can follow this tutorial using Git. To do this simply run:
     
     $ git clone https://github.com/burbanom/jupyter-comes-to-phenix.git
     
