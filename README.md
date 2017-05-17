@@ -25,6 +25,6 @@ For the section on interfacing python with existing simulation software, please 
 ## Git
 As a nice continuation with previous tutorials from the MdlS, you can follow this tutorial using Git. To do this simply run:
     
-    $ git clone https://github.com/burbanom/jupyter-comes-to-phenix.git
+    $ git clone https://github.com/burbanom/PHENIX-lands-upon-Jupyter.git
     
 or download the repository directly. 
