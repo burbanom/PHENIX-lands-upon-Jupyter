@@ -19,7 +19,7 @@ In Ubuntu Linux, to install Python 3 and all the requirements for this tutorial 
 Although we will be using Python 3 in this tutorial, a similar procedure can be followed for Python 2.
 
 ## pycp2k
-For the section on interfacing python with existing simulation software, please install [pycp2k](https://github.com/SINGROUP/pycp2k).
+For the section on interfacing python with existing simulation software, please install [pycp2k](https://github.com/SINGROUP/pycp2k). **N.B.** You will need to have a [cp2k](https://www.cp2k.org/download) executable installed on your machine.
 
 # Following the tutorial
 ## Git
