@@ -1,6 +1,0 @@
-# Install the following packages using pip/conda
-bqplot ipyleaflet widgetsnbextension
-# Run the following commmands before executing this notebook.
-jupyter nbextension enable --py bqplot
-jupyter nbextension enable --py ipyleaflet 
-jupyter nbextension enable --py widgetsnbextension
